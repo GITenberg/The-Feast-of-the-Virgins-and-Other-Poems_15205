@@ -1,0 +1,30 @@
+_repo: The-Feast-of-the-Virgins-and-Other-Poems_15205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gordon, Hanford Lennox
+    aliases:
+    - Gordon, Hanford L. (Hanford Lennox)
+    - Gordon, H. L. (Hanford Lennox)
+    birthdate: 1836
+    deathdate: 1920
+    gutenberg_agent_id: '2652'
+    url: http://www.gutenberg.org/2009/agents/2652
+description: ''
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- Poetry'
+- !lcsh 'Dakota Indians -- Poetry'
+title: The Feast of the Virgins and Other Poems
+url: http://www.gutenberg.org/ebooks/15205
