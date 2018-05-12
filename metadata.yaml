@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2652'
     url: http://www.gutenberg.org/2009/agents/2652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15205#The-Feast-of-the-Virgins-and-Other-Poems
 gutenberg_issued: '2005-02-28'
 gutenberg_type: Text
 identifiers:
